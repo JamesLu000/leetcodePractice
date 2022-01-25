@@ -3,3 +3,8 @@ tasks:
       echo 'TODO: build project'
     command: |
       echo 'TODO: start app'
+vscode:
+  extensions:
+    - ms-vscode.cpptools-extension-pack
+    - mhutchie.git-graph
+    - ms-ceintl.vscode-language-pack-zh-hant
